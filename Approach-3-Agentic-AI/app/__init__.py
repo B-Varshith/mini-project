@@ -1,0 +1,1 @@
+from .xai_service import audite_log, get_audit_trail  # noqa: F401 (imported for side-effect registration)
